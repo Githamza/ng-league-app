@@ -1,5 +1,5 @@
 # ng-league-app
-Angular v11 - express - Mongo DB web mobile first app using lazy loading modules for a better performances 
+Angular v11 - express - Mongo DB web mobile first app using lazy loading modules for better performances 
 
 ## Running
 
